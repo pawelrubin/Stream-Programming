@@ -1,0 +1,11 @@
+# scala fmt
+.scalafmt.conf
+
+# metals
+.metals
+
+# VS Code
+.vscode
+
+# Scala
+*.class
